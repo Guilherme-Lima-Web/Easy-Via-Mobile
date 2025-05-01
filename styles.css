@@ -99,6 +99,14 @@ a:active{
     margin:24px 0 0 57px;
 }
 
+strong{
+    color: #833b99;
+}
+
+strong:hover{
+    opacity: 0.3;
+}
+
 @media screen and (max-width: 900px) {
     .container{
         width: 100%;

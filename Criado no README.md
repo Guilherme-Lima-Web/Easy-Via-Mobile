@@ -8,3 +8,4 @@
 <br>
 <br>
 <img src="https://github.com/Guilherme-Lima-Web/Easy-Via-Mobile/blob/main/img/desktop.png?raw=true">
+<img src="https://github.com/Guilherme-Lima-Web/Easy-Via-Mobile/blob/main/img/mobile.png?raw=true">

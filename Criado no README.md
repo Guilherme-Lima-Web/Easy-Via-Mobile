@@ -7,4 +7,4 @@
 <p>Nesse projeto foi usado apenas HTML5 e CSS3 para fazer o layout da pagina e estiliza-la </p>
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/Guilherme-Lima-Web/Easy-Via-Mobile/2fd672dc018d9ac3c0d17db38893f24180124db9/img/Illustration-3-3.png">
+<img src="https://github.com/Guilherme-Lima-Web/Easy-Via-Mobile/blob/main/img/desktop.png?raw=true">
